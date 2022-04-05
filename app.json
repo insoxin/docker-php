@@ -1,0 +1,7 @@
+{
+  "name": "O",
+  "description": "Deploy Oager to heroku",
+  "website": "https://github.com/insoxin/docker-php",
+  "repository": "https://github.com/insoxin/docker-php",
+  "success_url": "/"
+}
